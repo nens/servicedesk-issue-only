@@ -1,0 +1,13 @@
+
+- color: D33336
+  description: "The issue is blocking an impending release."
+  name: "\U0001F41E Severity: Blocker"
+- color: DE6668
+  description: "The issue causes data loss, crashes or hangs processes, makes the system unresponsive, etc."
+  name: "\U0001F41E Severity: Critical"
+- color: FBD7D8
+  description: "The issue reports cosmetic items, formatting, spelling, colors, etc."
+  name: "\U0001F41E Severity: Medium"
+- color: EE5D5F
+  description: "The issue reports incorrect functionality, bad functionality, a confusing user experience, etc."
+  name: "\U0001F41E Severity: High"
